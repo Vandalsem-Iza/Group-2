@@ -8,14 +8,19 @@ Interactive Python game built for fast decision-making, reading into the future,
 
 ## Getting Started
 ### Libaries
-Python
-Tkinter and ttk
-Pillow(PIL)
-Tkinter Canvas and after()
-pytest
-Pyinstaller
+Python |
+Tkinter and ttk |
+Pillow(PIL) |
+Tkinter Canvas and after() |
+pytest |
+Pyinstaller 
 
 ### Prerequisites (unfinished)
+Install Python 3.14
+
+Download the files
+
+Run the application
 
 ### Execution
 * Type your name then press enter
@@ -25,10 +30,13 @@ Pyinstaller
 ## Contributors
 Iza 
 @Vandalsem-Iza
+
 Becca 
 @becca0411
+
 Jayden
 @hk66fg52hg-cyber
+
 Levi
 @lwmarts1
 
