@@ -1,16 +1,26 @@
 # Magic 8-Ball
-Python game built for fast decision-making and reading into the future.
+Interactive Python game built for fast decision-making, reading into the future, and having fun.
 
 ## Features
+-User Input
+-Random Engine
+-Conditional Logic
 
-## Getting started
+## Getting Started
 ### Libaries
+Python
+Tkinter and ttk
+Pillow(PIL)
+Tkinter Canvas and after()
+pytest
+Pyinstaller
 
-### Prerequisites
+### Prerequisites (unfinished)
 
 ### Execution
 * Type your name then press enter
 * Type your question then press enter
+* Press the "ASK THE 8-BALL" button
 
 ## Contributors
 Iza 
